@@ -11,6 +11,7 @@ namespace GitDemoConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("1st line");
+            Console.WriteLine("2nd line changed");
             Console.ReadLine();
         }
     }
